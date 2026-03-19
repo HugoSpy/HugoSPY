@@ -1,7 +1,7 @@
 <h1 align="center">Hugo · HugoSpy</h1>
 
 <p align="center">
-  Engineering student @ EPITA (SIGL 2027) · Freelance web dev · Auto-entrepreneur · Builder of things<br>
+  Engineering student @ EPITA (SIGL 2027) · Freelance web dev · Auto-entrepreneur <br>
   📍 Paris, France
 </p>
 
