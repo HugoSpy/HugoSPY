@@ -16,11 +16,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 🚧 Ce sur quoi je travaille
-
-- **⚗️ OpticLab** — Visionneuse 3D de montures optiques (Rust/Axum + Three.js, parsing `.oma`)
-- **🔒 Meunier Serrurerie** — Refonte de site vitrine freelance (Next.js → GitHub Pages)
-- **🤖 mi_news_finder** — RSS scraper + Claude AI classifier pour articles B2B IT
 
 ## 📊 Stats
 
