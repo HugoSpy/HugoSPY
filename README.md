@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hugo · HugoSpy</h1>
 
-<!--
-**HugoSpy/HugoSPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Engineering student @ EPITA (SIGL 2027) · Freelance web dev · Builder of things<br>
+  📍 Paris, France
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 🚧 Ce sur quoi je travaille
+
+- **⚗️ OpticLab** — Visionneuse 3D de montures optiques (Rust/Axum + Three.js, parsing `.oma`)
+- **🔒 Meunier Serrurerie** — Refonte de site vitrine freelance (Next.js → GitHub Pages)
+- **🤖 mi_news_finder** — RSS scraper + Claude AI classifier pour articles B2B IT
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoSpy&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  💼 Freelance dispo pour petits projets web · 🦀 Rust enjoyer · 🤖 AI-assisted dev
+</p>
