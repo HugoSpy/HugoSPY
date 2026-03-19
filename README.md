@@ -10,7 +10,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoSpy&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://gh-stats-self.vercel.app/api?username=HugoSpy&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=HugoSpy&theme=dark&hide_border=true" />
 </p>
